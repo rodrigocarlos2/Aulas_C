@@ -7,6 +7,8 @@
 */
 
 int main(){
+  
+  // Main é a função principal
 
   return 0;
 }
